@@ -1,0 +1,5 @@
+La programacion imperativa es todo lo que nos proporciona un lenguaje de programacion como por ejemplo un if else o un while es algo que ya esta implementado en el lenguaje las funcionalidades que tiene ese lenguaje, en cambio la programacion declarativa se basa en la logica como por ejemplo un metodo sabemos mas o menos lo que hace pero no tenemos el conocimento completo de ese proceso que realiza ese metodo como por ejemplo el metodo de la clase de java Math, Math.sin() este metodo seria algo declarativo solo esperamos un resultado sin saber lo que esta pasando, pero la programacion imperativa implementa a la programacion declarativa porque un metodo usa funciones de algun lenguaje.
+
+ejemplo
+la clase Math de java seria programacion declarativa 
+un if else seria programacion imperativa.

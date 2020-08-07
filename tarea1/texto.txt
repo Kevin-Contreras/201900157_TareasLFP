@@ -2,4 +2,4 @@ La programacion imperativa es todo lo que nos proporciona un lenguaje de program
 
 ejemplo
 la clase Math de java seria programacion declarativa 
-un if else seria programacion imperativa.
+un if else seria programacion imperativa tambien un ciclo for seria programacion inperativa.
